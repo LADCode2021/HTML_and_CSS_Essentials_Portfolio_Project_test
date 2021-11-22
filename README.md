@@ -3,6 +3,8 @@ First Photography is a site that gives a start-up photographer who is specialisi
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
+PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
+
 <h2>Planning</h2>
 
 I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
@@ -13,9 +15,18 @@ I haven't included the plotter graph but based on the scores for importance and 
 
 I then created a wireframe using Balsamiq to have a structure to work from when building the actual site:
 
+<h3>Home</h3>
 
+![Home](https://user-images.githubusercontent.com/92433582/142859483-a804ffb9-f502-49fd-b23d-8ea4ea2636e3.png)
 
-PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
+<h3>Gallery</h3>
+
+![Gallery](https://user-images.githubusercontent.com/92433582/142859528-d86e3f67-2617-4e1c-b427-b8bdca138683.png)
+
+<h3>Contact</h3>
+
+![Contact](https://user-images.githubusercontent.com/92433582/142859574-d57c3758-57db-418e-8d00-fa6dcc0676ad.png)
+
 
 <h2>Features</h2>
 
