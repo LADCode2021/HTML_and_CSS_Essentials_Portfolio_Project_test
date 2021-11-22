@@ -3,6 +3,12 @@ First Photography is a site that gives a start-up photographer who is specialisi
 
 The site user will be able to find out about the photographer, see what services are offered, see some example photography and be able to get in touch with the photorapher via a contact form or through links to social media channels.
 
+<h2>Planning</h2>
+
+I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
+
+
+
 I undertook a 
 
 PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
