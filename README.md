@@ -47,7 +47,7 @@ The footer will be at the bottom of the page and will contain links to social me
 
 [Image of Example Footer section]
 
-<h3>Gallery</h3>
+<h3>gallery.html page</h3>
 
 The navigation section will be repeated here to have navigational continuity for the user.
 
@@ -57,7 +57,7 @@ There will then be a selection of photos taken from Pixelate the stock imagery s
 
 The footer section will be repeated here to again keep reinforcing the CTA's.
 
-<h3>Contact</h3>
+<h3>contact.html page</h3>
 
 The navigation section will be repeated here to have navigational continuity for the user.
 
