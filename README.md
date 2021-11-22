@@ -7,9 +7,13 @@ The site user will be able to find out about the photographer, see what services
 
 I undertook a business needs/feasibility exercise discussed in the strategy plane part of the user essentials module. This helped me decide what to include in this project. Please see below:
 
+![fesibility_image](https://user-images.githubusercontent.com/92433582/142859015-85602b13-0cb8-460f-9866-56ef2694cf43.JPG)
+
+I haven't included the plotter graph but based on the scores for importance and fesibility I was able to identify the four areas that were of most importance and most fesible.
+
+I then created a wireframe using Balsamiq to have a structure to work from when building the actual site:
 
 
-I undertook a 
 
 PLACEHOLDER: http://ami.responsivedesign.is/ images of finished site
 
