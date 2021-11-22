@@ -35,7 +35,7 @@ The About me section is floated left to 50% of the size of the screen and contai
 
 PLACEHOLDER: [Image of About me section]
 
-<h4>Example services</h4>
+<h4>Example services section</h4>
 
 The Example services section is floated right to 50% of the screen and advertised the main services offered. The idea behind presenting the information to the user in this way is so they don't have to jump through too many clicks to find out what is actually offered by the photographer. The about and services can be viewed as one piece.
 
